@@ -7,7 +7,7 @@ import simplejson
 
 # retrieve a page
 base_url = 'https://twitter.com/search?q='
-q = '&ors=floripa'
+q = '&ors=Vettel'
 options = '&rpp=100&page='
 page = 1
 
