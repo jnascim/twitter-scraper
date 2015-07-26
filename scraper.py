@@ -6,7 +6,7 @@ import scraperwiki
 import simplejson
 
 # retrieve a page
-base_url = 'http://search.twitter.com/search.json?q='
+base_url = 'https://twitter.com/search?q='
 q = '&ors=floripa'
 options = '&rpp=100&page='
 page = 1
